@@ -1,1 +1,1 @@
-# fruit-slice game https://riteshsuiwal.github.io/fruit-slice/
+# fruit-slice game https://tarun-beniwal.github.io/arun-Beniwal-fruit_slice_game/
